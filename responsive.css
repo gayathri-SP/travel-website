@@ -1,0 +1,779 @@
+@media screen and (max-width:1440px) {
+    .header {
+        padding: 20px 70px;
+    }
+    .header-two {
+        padding: 20px 75px;
+    }
+    .hero-section {
+        padding: 20px 80px;
+    }
+    .hero-sec-image img {
+        width: 542px;
+        height: 662px;
+    }
+    .hero-sec-content {
+        width: 50%;
+    }
+    .hero-sec-content h1 {
+        font-size: 65px;
+        line-height: 75px;
+        width: 558px;
+    }
+    .places-section {
+        padding: 20px 46px;
+    }
+    .place-image img {
+        Width: 291px;
+        Height: 386px;
+    }
+    .places-img{
+        gap: 20px;
+        justify-content: space-between;
+    }
+    .tampat-section {
+        padding: 20px 70px;
+    }
+    .map-section {
+        padding: 20px 80px;
+    }
+    .blogtravel-section {
+        padding: 20px 80px;
+    }
+    .blogtravel-detail {
+        margin-top: 50px;
+    }
+    .card-content {
+        Padding: 20px 30px 43px;
+        Gap: 20px;
+    }
+    .blogtravel-image img {
+        width: 100%;
+    }
+    .background-content{
+        width: 100%;
+    }
+    .testimonial-section {
+        padding: 20px 79px;
+    }
+    .FAQ-section {
+        padding: 20px 80px;
+    }
+    .CTA-section {
+        padding: 20px 80px;
+    }
+    .footer-section {
+        padding: 20px 75px;
+    }
+    .full-content h4 {
+        padding: 22px 58px;
+    }
+    .place-name {
+        top: 79%;
+    }
+    .tampat-img img {
+        width: 100%;
+        height: 100%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .header {
+        padding: 20px 30px;
+    }
+    .header-logo img {
+        width: 95px;
+        height: 26px;
+    }
+    .header-search input {
+        width: 436px;
+        height: 46px;
+    }
+    .header-content {
+        padding: 0;
+    }
+    .header-location img {
+        width: 38px;
+        height: 38px;
+    }
+    .location-address span{
+        font-size: 16px;
+    }
+    .header-two {
+        padding: 20px 36px;
+    }
+    .categories {
+        gap: 21px;
+    }
+    .categories p{
+        gap: 6px;
+    }
+    .categories p::after {
+        width: 10px;
+        height: 17px;
+    }
+    .hero-section {
+        padding: 20px 50px;
+    }
+    .hero-sec-detail{
+        justify-content: space-between;
+    }
+    .hero-sec-content h1 {
+        font-size: 61px;
+        line-height: 71px;
+        width: 551px;
+    }
+    .hero-sec-content p{
+        width: 375px;
+    }
+    .hero-sec-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .tampat-section {
+        padding: 20px 40px;
+    }
+    .tampat-detail {
+        justify-content: space-between;
+    }
+    .tampat-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .tampat-para p{
+        width: 416px;
+        font-size: 18px;
+    }
+    .tampat-para img {
+        width: 53px;
+        height: 58px;
+    }
+    .tampat-content h5{
+        width: 435px;
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .places-section {
+        padding: 20px 36px;
+    }
+    .place-image img {
+        Width: 225px;
+        Height: 314px;
+    }
+    .place-name {
+        top: 74%;
+    }
+    .map-section {
+        padding: 20px 50px;
+    }
+    .map-features p{
+        width: 316px;
+    }
+    .map-features h3{
+        font-size: 21px;
+    }
+    .blogtravel-section {
+        padding: 20px 44px;
+    }
+    .card-content {
+        Padding: 9px 10px 40px;
+        Gap: 14px;
+    }
+    .blogtravel-content img {
+        width: 335px;
+        height: 175px;
+    }
+    .card-content h4{
+        font-size: 18px;
+    }
+    .card-content h5{
+        font-size: 19px;
+    }
+    .card-content p{
+        font-size: 19px;
+    }
+    .blogtravel-detail{
+        gap: 20px;
+    }
+   .testimonial-section {
+        padding: 20px 50px;   
+    }
+    .FAQ-section {
+        padding: 20px 55px;
+    }
+    .FAQ-ques1{
+        padding: 11px 20px;
+    }
+    .FAQ-ques2{
+        padding: 11px 20px;
+    }
+    .FAQ-ques3{
+        padding: 11px 20px;
+    }
+    .FAQ-ques4{
+        padding: 11px 20px;
+    }
+    .testimonial-card {
+        width: 100%;
+    }
+    .testimonial-cards {
+        gap: 30px;
+    }
+    .CTA-section {
+        padding: 20px 50px;
+    }
+    .cta-detail {
+        grid-template-rows: repeat(3, 113px);
+        padding: 19px 40px;
+    }
+    .cta-detail h4{
+        font-size: 37px;
+        line-height: 47px;
+    }
+    .cta-detail p {
+        font-size: 18px;
+        line-height: 28px;
+        width: 490px;
+    }
+    .cta-content {
+        margin-top: 80px;
+    }
+    .footer-section {
+        padding: 20px 40px;
+    }
+    .introdution-sec p{
+        width: 450px;
+    }
+    .bottom-items li{
+        margin-left: 20px;
+    }
+
+}
+@media screen and (max-width:990px) {
+    .header {
+        padding: 20px 25px;
+    }
+    .header-logo img {
+        width: 83px;
+        height: 22px;
+    }
+    .location-address span {
+        font-size: 10px;
+    }
+    .header-language p{
+        font-size: 11px;
+        gap: 3px;
+    }
+    .header-search input {
+        width: 347px;
+        height: 37px;
+    }
+    .header-two {
+        padding: 14px 25px;
+    }
+    .hero-section {
+        padding: 20px 28px;
+    }
+    .hero-sec-content h1 {
+        font-size: 51px;
+        line-height: 61px;
+        width: 431px;
+    }
+    .content-img {
+        Width: 327px;
+        Height: 33px;
+    }
+    .content-img img {
+        top: 3px;
+        left: 18px;
+        width: 287px;
+        height: 25px;
+    }
+    .categories p {
+        gap: 6px;
+        font-size: 11px;
+    }
+    .hero-sec-content h1 {
+        font-size: 50px;
+        line-height: 60px;
+        width: 431px;
+    }
+    .hero-sec-content p {
+        width: 341px;
+    }
+    .hero-sec-image img {
+        width: 385px;
+        height: 513px;
+        object-fit: contain;
+    }
+    .partner-logo img {
+        width: 105px;
+        height: 116px;
+    }
+    #logo-img4 {
+        width: 91px;
+        height: 39px;
+    }
+    .places-section {
+        padding: 20px 25px;
+    }
+    .place-image img {
+        Width: 165px;
+        Height: 228px;
+    }
+    .place-image img {
+        Width: 170px;
+        Height: 228px;
+        border-radius: 10px;
+    }
+    .place-name {
+        height: 52px;
+        width: 106px;
+    }
+    .place-name {
+        top: 76%;
+    }
+    .place-name h6{
+        font-size: 15px;
+    }
+    .place-name span {
+        font-size: 13px;
+    }
+    .places-img {
+        gap: 10px;
+    }
+    .sec-heading h3 {
+        font-size: 32px;
+    }
+    .tampat-section {
+        padding: 20px 25px;
+    }
+    .tampat-content h4 {
+        padding-top: 92px;
+    }
+    .tampat-content h5 {
+        width: 370px;
+        font-size: 43px;
+        line-height: 53px;
+    }
+    .tampat-para span{
+        font-size: 16px;
+    }
+    .tampat-para p {
+        width: 330px;
+        font-size: 16px;
+        line-height: 26px;
+        padding-top: 35px;
+    }
+    .tampat-para img {
+        width: 30px;
+        height: 44px;
+    }
+    .tampat-img img {
+        width: 381px;
+        height: 728px;
+        object-fit: contain;
+    }
+    .map-section {
+        padding: 20px 35px;
+    }
+    .map-heading h4{
+        padding-top: 75px;
+    }
+    .map-heading h5{
+        font-size: 49px;
+    }
+    .map-features {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .map-features p {
+        width: 316px;
+        font-size: 17px;
+    }
+    .map-features h3 {
+        font-size: 20px;
+    }
+    .blogtravel-content h4 {
+        padding-top: 50px;
+    }
+    .blogtravel-section {
+        padding: 20px 25px;
+    }
+    .blogtravel-content img {
+        width: 274px;
+        height: 156px;
+    }
+    .card-content {
+        Padding: 9px 4px 16px;
+        Gap: 10px;
+    }
+    .card-content h4 {
+        font-size: 15px;
+        line-height: 25px;
+        width: 203px;
+        padding-top: 0;
+    }
+    .card-content h5 {
+        font-size: 16px;
+        line-height: 26px;
+        width: 265px;
+    }
+    .card-content p {
+        font-size: 15px;
+    }
+    .full-content p{
+        font-size: 16px;
+        line-height: 26px;
+        width: 78%;
+        padding: 4px 24px 0;
+    }
+    .full-content p{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .tags {
+        display: flex;
+        gap: 14px;
+        padding: 9px 19px;
+    }
+    .full-content h4 {
+        padding: 10px 30px 0;
+    }
+    .tags h6{
+        font-size: 15px;
+    }
+    .testimonial-section {
+        padding: 20px 25px;
+    }
+    .testimonial-heading h2 {
+        padding-top: 83px;
+    }
+    .testimonial-heading h3{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .testimonial-card img {
+        width: 136px;
+        height: 133px;
+        display: flex;
+    }
+    .testimonial-card p{
+        font-size: 15px;
+        line-height: 24px;
+    }
+    #stars {
+        width: 103px;
+        height: 20px;
+    }
+    .testimonial-card h4{
+        font-size: 16px;
+    }
+    .testimonial-card h5{
+        font-size: 16px;
+    }
+    .testimonial-card {
+        height: 390px;
+        padding: 14px 18px;
+    }
+    .FAQ-section {
+        padding: 20px 26px;
+    }
+    .FAQ-heading h2{
+        padding-top: 80px;
+    }
+    .CTA-section {
+        padding: 20px 25px;
+    }
+    .cta-img img {
+        width: 374px;
+        height: 378px;
+        object-fit: cover;
+    }
+    .cta-detail h4 {
+        font-size: 24px;
+        line-height: 34px;
+        width: 341px;
+    }
+    .cta-detail p {
+        font-size: 17px;
+        line-height: 27px;
+        width: 359px;
+    }
+    .footer-section {
+        padding: 20px 27px;
+    }
+    .introdution-sec p {
+        width: 301px;
+        font-size: 16px;
+    }
+    .Tentang-sec h2 {
+        font-size: 18px;
+    }
+    .support-sec h2{
+        font-size: 18px;
+    }
+    .FAQ-sec h2{
+        font-size: 18px;
+    }
+    .Tentang-sec li{
+        font-size: 15px;  
+    }
+    .support-sec li{
+        font-size: 15px;
+    }
+    .FAQ-sec li{
+        font-size: 15px;
+    }
+    .copy-right p {
+        font-size: 13px;
+    }
+    .bottom-items li {
+        margin-left: 10px;
+        font-size: 13px;
+    }
+    .introdution-sec h2{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:650px) {
+    .header-two {
+        display: none;
+    } 
+    .hero-section {
+        padding: 20px 15px;
+    }
+
+    .hero-sec-content {
+        width: unset;
+    }
+    .hero-sec-content h1 {
+        font-size: 50px;
+        line-height: 60px;
+        width: 100%;
+        text-align: center;
+    }
+    .hero-sec-content p {
+        width: 100%;
+    }
+    .hero-sec-detail {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .partner-logo {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .places-section {
+        padding: 20px 15px;
+    }
+    .place-image img {
+        Width: 100%;
+        Height: 100%;
+        border-radius: 10px;
+    }
+    .places-img{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .tampat-section {
+        padding: 20px 15px;
+    }
+    .tampat-content h5 {
+        width: 100%;
+        font-size: 43px;
+        line-height: 53px;
+        text-align: center;
+    }
+    .tampat-detail {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .tampat-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    .map-section {
+        padding: 20px 15px;
+    }
+    .testimonial-section {
+        padding: 20px 15px;
+    }
+    .testimonial-cards{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .CTA-section {
+        padding: 20px 15px;
+    }
+    .CTA-section {
+        padding: 20px 15px;
+    }
+    .footer-flex-sec {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        margin-top: 50px;
+    }
+    .place-image {
+        position: relative;
+    }
+    .place-name {
+        position: absolute;
+        left: 0;
+        top: 86%;
+    }
+    .blogtravel-image img {
+        display: none;
+    }
+    .cta-detail {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        padding: 12px 5px;
+    }
+    .cta-content{
+        height: 600px;
+    }
+    .cta-img {
+        top: 348px;
+    }
+    .cta-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .header-search {
+        display: none;
+    }
+    .header-language {
+        display: none;
+    }
+    .header-location {
+        display: none;
+    }
+    .header {
+        padding: 20px 14px;
+    }
+    .hero-sec-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    .tampat-img img {
+        width: 100%;
+        height: 395px;
+        object-fit: contain;
+    }
+    .tampat-para p {
+        width: 100%;
+    }
+    .footer-section {
+        padding: 20px 15px;
+    }
+    .cta-detail h4{
+        width: 100%;
+    }
+    .cta-detail p{
+        width: 100%;
+    }
+    .search-img, .menu-img{
+        display: block;
+    }
+    .blogtravel-section {
+        padding: 20px 15px;
+    }
+    .background-content {
+        width: 100%;
+        height: 36vh;
+    }
+    .full-content h4 {
+        padding: 3px 10px;
+        font-size: 16px;
+        line-height: 26px;
+        width: 100%;
+        letter-spacing: 1.1px;
+    }
+    .full-content p {
+        font-size: 14px;
+        line-height: 24px;
+        width: 100%;
+        padding: 3px 10px;
+    }
+    .tags h6 {
+        font-size: 12px;
+    }
+    .tags {
+        display: flex;
+        gap: 14px;
+        padding: 1px 9px;
+    }
+    .blogtravel-detail {
+        gap: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .map-heading h4 {
+        padding-top: 0;
+    }
+    .map-heading h5 {
+        font-size: 41px;
+        line-height: 53px;
+    }
+    .map-heading p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    /* .blogtravel-content h3 {
+        font-size: 40px;
+        line-height: 50px;
+        text-align: center
+    } */
+    .blogtravel-content h4 {
+        padding-top: 0;
+        text-align: center;
+    }
+    .testimonial-heading h3 {
+        font-size: 41px;
+        line-height: 51px;
+    }
+    .testimonial-heading p{
+        font-size: 18px;
+        line-height: 29px;
+    }
+    .bottom-bar {
+        display: flex;
+        align-items: flex-start;
+        margin-top: 40px;
+        flex-direction: column;
+    }
+    .bottom-items li {
+        margin-top: 17px;
+        font-size: 13px;
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-flex-sec h2{
+        margin-top: 30px;
+    }
+    .question p {
+        font-size: 11px;
+        line-height: 22px;
+    }
+    .FAQ-heading p {
+        font-size: 28px;
+    }
+}
