@@ -565,8 +565,12 @@
         align-items: center;
     }
     .partner-logo {
-        display: flex;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-rows: repeat(5, 50px);
+    }
+    #logo-img4 {
+        width: 88px;
+        height: 23px;
     }
     .places-section {
         padding: 20px 15px;
@@ -577,8 +581,7 @@
         border-radius: 10px;
     }
     .places-img{
-        display: flex;
-        flex-wrap: wrap;
+        display: grid;
         align-items: center;
         justify-content: center;
     }
@@ -744,7 +747,6 @@
     } */
     .blogtravel-content h4 {
         padding-top: 0;
-        text-align: center;
     }
     .testimonial-heading h3 {
         font-size: 41px;
@@ -775,5 +777,50 @@
     }
     .FAQ-heading p {
         font-size: 28px;
+    }
+    .partner-logo img {
+        width: 95px;
+        height: 70px;
+    }
+    .tampat-para img {
+        width: 27px;
+        height: 26px;
+        margin-top: 0;
+    }
+    .content-img {
+        Width: 283px;
+        Height: 25px;
+    }
+    .content-img img {
+        top: 3px;
+        left: 18px;
+        width: 236px;
+        height: 18px;
+    }
+    .hero-sec-buttons button {
+        font-family: "PlusJakartaSans-Bold";
+        line-height: 20px;
+        font-weight: 700;
+        font-size: 13px;
+        padding: 2px 8px;
+        color: #4475F2;
+    }
+    .search-img, .menu-img{
+        display: block;
+    }
+    .arrow-img img{
+        width: 20px;
+    }
+    .FAQ-ques1 {
+        padding: 11px 9px;
+    }
+    .FAQ-ques2 {
+        padding: 11px 9px;
+    }
+    .FAQ-ques3 {
+        padding: 11px 9px;
+    }
+    .FAQ-ques4 {
+        padding: 11px 9px;
     }
 }

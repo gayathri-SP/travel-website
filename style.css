@@ -222,7 +222,7 @@ body{
     color: #4475F2;
 
 }
-.hero-sec-content p{
+.hero-content {
     font-family:"PlusJakartaSans-Medium";
     font-weight: 500;
     font-size:18px ;
@@ -262,6 +262,8 @@ body{
 .play-img img{
     width: 80px;
     height: 60px;
+    margin-top: 21px;
+    object-fit: contain;
 }
 #logo-img4{
     width: 110px;
@@ -686,9 +688,10 @@ body{
     margin-top: 85px;
     background-color: #ffffff;
     border: 1px solid #EBEBEB;
-    padding: 133px 20px;
+    padding:40px 20px;
     position: relative;
     overflow: hidden;
+    
 }
 .question p{
     font-family:"PlusJakartaSans-Bold" ;
@@ -700,10 +703,11 @@ body{
     
 }
 .answer{
-    position: absolute;
-    top:132px;
-    left: 0;
+    /* position: absolute; */
+    /* top:132px;
+    left: 0; */
     background-color: #F6F6F6;
+    height: 60px;
     
 }
 .question-answer{
